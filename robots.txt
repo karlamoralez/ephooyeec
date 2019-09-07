@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ixiedohphu.vyvoj-webu.cz/sitemap.xml
